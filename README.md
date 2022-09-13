@@ -15,4 +15,4 @@ cp docker-compose.example.yml docker-compose.yml
 `docker-compose up -d`
 
 ## 访问
-地址：`http://自己的ip/nacos` 账号：nacos，密码：nacos
+地址：`http://自己的ip/nacos` 账号：nacos，密码：nacos (比如地址：http://192.168.240.120:8848/nacos)
